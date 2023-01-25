@@ -1,0 +1,9 @@
+
+body {
+	margin: 0;
+	padding: 20rem;
+    background: linear-gradient(270deg, #011f07, #001300, #0e4615, #369242);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
